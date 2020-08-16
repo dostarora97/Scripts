@@ -1,4 +1,4 @@
-# pip install browsepy pyngrok
+# !pip install browsepy pyngrok
 
 from browsepy import __main__, app
 from pyngrok import ngrok
